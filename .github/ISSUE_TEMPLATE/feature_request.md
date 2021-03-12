@@ -1,20 +1,22 @@
 ---
 name: Feature Request
-about: Have an idea? Submit it as a feature request.
-title: '[Feature Request]'
+about: Got a feature request? Lemme know.
+assignees: duncanmcclean
+labels: feature request
+title: '[Feature Request] '
 ---
 
 <!--
-    Please use the provided issue template.
-    It's all really helpful information!
+    Please fill out the whole issue template.
+    It's honestly really, really helpful and it helps to keep things organised.
 -->
 
-A quick description of the feature you'd like to see implemented.
+## What would you like to see added?
 
-## How should it work?
 
-...
+## Is there a workaround you can use in the meantime?
 
-## Use cases
 
-...
+## Would you be open to PR'ing the feature?
+
+<!-- PR'ing is really easy! Ping me if you have any questions. -->
