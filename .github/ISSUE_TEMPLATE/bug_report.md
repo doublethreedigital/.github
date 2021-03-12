@@ -1,26 +1,20 @@
 ---
 name: Bug Report
-about: Report something that's not working correctly.
-labels: bug
+about: Report something that's broken
+assignees: duncanmcclean
 ---
 
 <!--
-    Please use the provided issue template.
-    It's all really helpful information to help fix your issue!
+    Please fill out the whole issue template.
+    It's honestly really, really helpful and it helps to keep things organised.
 -->
 
-A quick description of the issue you're facing.
+## Description
 
-If you can, please provide a screenshot of the issue or a link to the Flare exception, maybe even both.
+<!-- What's broken? What are you expecting? Do you have a full stack trace of the issue? -->
 
-## How to reproduce
-
-...
-
-## What I expected
-
-...
+## Exact steps to reproduce
 
 ## Environment
 
-Copy the output of `php please support:details` into here.
+<!-- Please copy the output of `php please support:details` -->
