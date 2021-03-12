@@ -1,5 +1,5 @@
 ---
-reviewers: duncanmcclean
+review: duncanmcclean
 ---
 
 ## Description
