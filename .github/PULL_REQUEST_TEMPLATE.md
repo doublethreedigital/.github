@@ -1,7 +1,3 @@
----
-assignees: duncanmcclean
----
-
 ## Description
 
 <!-- What does this PR change? Has it added anything? Is there any questions you have? -->
