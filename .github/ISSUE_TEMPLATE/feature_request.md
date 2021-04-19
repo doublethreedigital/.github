@@ -19,3 +19,9 @@ labels: feature request
 ## Would you be open to PR'ing the feature?
 
 <!-- PR'ing is really easy! Ping me if you have any questions. -->
+
+---
+
+<!-- Please leave this bit.. -->
+
+If this is something you'd like to see added, please leave a 👍 reaction to this issue.
