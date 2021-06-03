@@ -1,7 +1,6 @@
 ---
 name: Feature Request
 about: Got a feature request? Lemme know.
-assignees: duncanmcclean
 labels: feature request
 ---
 
