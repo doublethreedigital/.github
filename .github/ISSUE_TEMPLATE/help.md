@@ -1,7 +1,6 @@
 ---
 name: Help
 about: Stuck with something? Get some help.
-assignees: duncanmcclean
 ---
 
 <!--
