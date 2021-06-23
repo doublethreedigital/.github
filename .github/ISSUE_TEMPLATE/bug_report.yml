@@ -18,9 +18,5 @@ body:
   attributes:
     label: Environment
     placeholder: Please copy the output of `php please support:details`
-    value: |
-      ```
-      
-      ```
   validations:
     required: true
