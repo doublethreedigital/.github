@@ -17,6 +17,10 @@ body:
 - type: textarea
   attributes:
     label: Environment
-    value: Please copy the output of `php please support:details`
+    placeholder: Please copy the output of `php please support:details`
+    value: |
+      ```
+      
+      ```
   validations:
     required: true
