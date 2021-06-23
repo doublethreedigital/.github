@@ -19,3 +19,5 @@ body:
       - This is just a nice to have. I can deal without.
       - I'm going to need it at some point in the future but it's not major right now.
       - This is sort of a blocker for me/this project.
+  validations:
+    required: true
