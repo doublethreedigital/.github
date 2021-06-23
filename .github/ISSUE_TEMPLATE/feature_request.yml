@@ -1,0 +1,21 @@
+name: Feature Request
+about: Come up with a feature request? I'd love to hear it.
+labels: [feature request]
+body:
+- type: textarea
+  attributes:
+    label: What would you like to see added?
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Is there a workaround you can use in the meantime?
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Priority wise - where's this feature for you?
+    options:
+      - This is just a nice to have. I can deal without.
+      - I'm going to need it at some point in the future but it's not major right now.
+      - This is sort of a blocker for me/this project.
