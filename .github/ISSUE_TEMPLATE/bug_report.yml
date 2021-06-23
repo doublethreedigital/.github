@@ -3,20 +3,20 @@ description: Report something that's broken
 body:
 - type: markdown
   attributes:
-    label: Description
+#     label: Description
     value: What's broken? What were you expecting to happen?
   validations:
     required: true
 - type: markdown
   attributes:
-    label: Steps to reproduce
+#     label: Steps to reproduce
     value: |
         1. Do this thing...
         2. Then do that thing...
         3. And finally, do something else...
 - type: markdown
   attributes:
-    label: Environment
+#     label: Environment
     value: Please copy the output of `php please support:details`
   validations:
     required: true
