@@ -1,5 +1,5 @@
 name: Feature Request
-about: Come up with a feature request? I'd love to hear it.
+description: Come up with a feature request? I'd love to hear it.
 labels: [feature request]
 body:
 - type: textarea
