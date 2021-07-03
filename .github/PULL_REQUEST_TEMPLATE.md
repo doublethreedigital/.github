@@ -5,7 +5,7 @@
 ## Related Issues
 
 <!-- 
-  Does this PR fix an open issue? 
-  Link it with a keyword: https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
+  Does this PR fix any open issues? 
+  -- If so, please do something like this: 'Closes #1'
 -->
 
