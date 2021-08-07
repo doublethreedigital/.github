@@ -1,6 +1,9 @@
 ## Description
 
-<!-- What does this PR change? Has it added anything? Is there any questions you have? -->
+<!-- 
+  What does this PR change? Has it added anything new? What has it fixed? 
+  -- Maybe provide a few screenshots, a Loom (https://loom.com) or a code snippet?
+-->
 
 ## Related Issues
 
